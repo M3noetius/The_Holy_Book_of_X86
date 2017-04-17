@@ -497,7 +497,7 @@ ESP--> |0xDEADBEEF|           |0xDEADBEEF|            |0xDEADBEEF|            |0
        |          |           |          |            |          |     ESP--> | C C C C  |                              .
        +----------+           +----------+            +----------+            +----------+                      Lower Memory Addresses
 
-ESP = 0x7fffff50        ESP = 0x7ffff4C         ESP = 0x7fffff48        ESP = 0x7fffff44
+ESP = 0x7ffff50        ESP = 0x7ffff4C         ESP = 0x7fffff48        ESP = 0x7fffff44
 
 
 3.
